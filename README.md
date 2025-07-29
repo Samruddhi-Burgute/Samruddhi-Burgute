@@ -2,7 +2,7 @@
 
 ### **💡 About Me**  
 - 🚀 **Building:** **[Smart Learn Hub](https://github.com/samruddhi-burgute/smart-learn-hub)** – A flexible online learning platform with cloud support.  
-- 🌱 **Learning:** Full-Stack Development (MERN), AWS Cloud, AI/ML.  
+- 🌱 **Learning:** Full-Stack Development ( AWS Cloud, AI/ML.)  
 - 📫 **Contact:** [📧 Email](mailto:burgutesamruddhi4@gmail.com) | [🔗 LinkedIn](https://linkedin.com/in/samruddhi-burgute-3789a02b)  
 
 ### **🛠 Skills & Tools**  
